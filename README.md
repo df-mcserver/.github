@@ -1,0 +1,2 @@
+# .github
+df-mcserver meta
