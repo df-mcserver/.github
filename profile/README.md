@@ -7,20 +7,33 @@ The open sourced code for the creatively titled minecraft server "mcserver"
 <details>
   <summary>Description of each repository (that will exist)</summary>
 
-  ### DFLobbyServer
-  - a minimal lobby server built with Minestom (1.21.8) for low resource usage
+  > DFLobbyServer
+  > - a minimal lobby server built with Minestom (1.21.8) for low resource usage
+  > 
+  > DFProxyPlugin
+  > - a velocity plugin (3.4.0-SNAPSHOT) which manages communication with other plugins, bedrock player support, proxy-wide bans etc.
+  > 
+  > [DFSmpPlus](https://github.com/df-mcserver/DFSmpPlus)
+  > - a papermc plugin (1.21.8) built to add various custom content and QoL tweaks to minecraft. Used with LeafMC, so may not work as intended on vanilla PaperMC.
+  > 
+  > DFJavaResources
+  > - a minecraft (java) resource pack (1.21.8+) which adds textures and needed changes for DFSmpPlus
+  > 
+  > DFBedrockResources
+  > - a minecraft (bedrock) resource pack (1.21.100+) which adds textures and needed changes for DFSmpPlus
+</details>
 
-  ### DFProxyPlugin
-  - a velocity plugin (3.4.0-SNAPSHOT) which manages communication with other plugins, bedrock player support, proxy-wide bans etc.
-
-  ### DFSmpPlus
-  - a papermc plugin (1.21.8) built to add various custom content and QoL tweaks to minecraft. Used with LeafMC, so may not work as intended on vanilla PaperMC.
-
-  ### DFJavaResources
-  - a minecraft (java) resource pack (1.21.8+) which adds textures and needed changes for DFSmpPlus
-
-  ### DFBedrockResources
-  - a minecraft (bedrock) resource pack (1.21.100+) which adds textures and needed changes for DFSmpPlus
+<details>
+  <summary>Description of each archived repository</summary>
+  
+  > [DFSmpPlugin-Legacy](https://github.com/df-mcserver/DFSmpPlugin-Legacy)
+  > - a spigotmc plugin (1.21.3) built to add various custom content and QoL tweaks to minecraft. Used for Season 1 & 2.
+  > 
+  > [DFJavaResources-Legacy](https://github.com/df-mcserver/DFJavaResources-Legacy)
+  > - a minecraft (java) resource pack (1.21.2-1.21.4) which adds textures and needed changes for DFSmpPlugin-Legacy
+  > 
+  > [DFBedrockResources-Legacy](https://github.com/df-mcserver/DFBedrockResources-Legacy)
+  > - a minecraft (bedrock) resource pack (1.21.50+) which adds textures and needed changes for DFSmpPlugin-Legacy
 </details>
 
 <details>
