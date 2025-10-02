@@ -5,22 +5,25 @@ The open sourced code for the creatively titled minecraft server "mcserver"
 ### Server details
 
 <details>
-  <summary>Description of each repository (that will exist)</summary>
+  <summary>Description of each repository</summary>
 
-  > DFLobbyServer
-  > - a minimal lobby server built with Minestom (1.21.8) for low resource usage
+  > [DFLobbyServer](https://github.com/df-mcserver/DFLobbyServer)
+  > - a minimal lobby server built with Minestom (1.21.8) for minimal resource usage
   > 
-  > DFProxyPlugin
+  > [DFProxyPlugin](https://github.com/df-mcserver/DFProxyPlugin)
   > - a velocity plugin (3.4.0-SNAPSHOT) which manages communication with other plugins, bedrock player support, proxy-wide bans etc.
   > 
   > [DFSmpPlus](https://github.com/df-mcserver/DFSmpPlus)
   > - a papermc plugin (1.21.8) built to add various custom content and QoL tweaks to minecraft. Used with LeafMC, so may not work as intended on vanilla PaperMC.
   > 
-  > DFJavaResources
+  > [DFJavaResources](https://github.com/df-mcserver/DFJavaResources)
   > - a minecraft (java) resource pack (1.21.8+) which adds textures and needed changes for DFSmpPlus
   > 
-  > DFBedrockResources
+  > [DFBedrockResources](https://github.com/df-mcserver/DFBedrockResources)
   > - a minecraft (bedrock) resource pack (1.21.100+) which adds textures and needed changes for DFSmpPlus
+  >
+  > [DFChatImprovements](https://github.com/df-mcserver/DFChatImprovements)
+  > - a simple spigotmc plugin (1.21+) to add small chatting features
 </details>
 
 <details>
