@@ -13,7 +13,7 @@ Most code in this organisation is licensed under BSD-3 clause, and thus the code
   > - a minimal lobby server built with Minestom (1.21.8) for minimal resource usage
   > 
   > [DFProxyPlugin](https://github.com/df-mcserver/DFProxyPlugin)
-  > - a velocity plugin (3.4.0-SNAPSHOT) which manages communication with other plugins, bedrock player support, proxy-wide bans etc.
+  > - a velocity plugin (3.3.0-SNAPSHOT) which manages communication with other plugins, bedrock player support, proxy-wide bans etc.
   > 
   > [DFSmpPlus](https://github.com/df-mcserver/DFSmpPlus)
   > - a papermc plugin (1.21.8) built to add various custom content and QoL tweaks to minecraft. Used with LeafMC, so may not work as intended on vanilla PaperMC.
