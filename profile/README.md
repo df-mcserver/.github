@@ -1,6 +1,8 @@
-## df-mcserver 👋
+## Welcome to df-mcserver 👋
 
 The open sourced code for the creatively titled minecraft server "mcserver"
+
+Most code in this organisation is licensed under BSD-3 clause, and thus the code provided is provided as-is. No help will be provided in using this code.
 
 ### Server details
 
